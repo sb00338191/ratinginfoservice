@@ -21,3 +21,10 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+*.lst
+*.prefs
+.classpath
+.project
+target/classes/application.properties
+target/maven-archiver/pom.properties
+target/ratinginfoservice-0.0.1-SNAPSHOT.jar.original
